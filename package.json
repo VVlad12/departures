@@ -1,0 +1,1 @@
+{"type":"module","private":true,"scripts":{"test":"node --test tests/","start":"node serve.mjs 8767","icons":"node scripts/make-icons.mjs"}}
